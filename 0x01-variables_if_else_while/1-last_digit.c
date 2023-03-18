@@ -5,7 +5,7 @@
 
 /* betty style doc for function main goes there */
 /**
- * main - Entry point 
+ * main - prints the last digit of a randomly generated number and whether it is the greater than 5, less than 6, or 0. 
  *
  * Returne: Always 0 (Success)
  */
